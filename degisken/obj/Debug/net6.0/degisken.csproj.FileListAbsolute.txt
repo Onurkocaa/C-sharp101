@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\pratıkler\degisken\obj\Debug\net6.0\degisken.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pratıkler\degisken\obj\Debug\net6.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pratıkler\degisken\obj\Debug\net6.0\degisken.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\degisken\obj\Debug\net6.0\degisken.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pratıkler\degisken\obj\Debug\net6.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\degisken\bin\Debug\net6.0\degisken.exe
+C:\Users\ASUS\Desktop\pratıkler\degisken\bin\Debug\net6.0\degisken.deps.json
+C:\Users\ASUS\Desktop\pratıkler\degisken\bin\Debug\net6.0\degisken.runtimeconfig.json
+C:\Users\ASUS\Desktop\pratıkler\degisken\bin\Debug\net6.0\degisken.dll
+C:\Users\ASUS\Desktop\pratıkler\degisken\bin\Debug\net6.0\degisken.pdb
+C:\Users\ASUS\Desktop\pratıkler\degisken\obj\Debug\net6.0\degisken.dll
+C:\Users\ASUS\Desktop\pratıkler\degisken\obj\Debug\net6.0\refint\degisken.dll
+C:\Users\ASUS\Desktop\pratıkler\degisken\obj\Debug\net6.0\degisken.pdb
+C:\Users\ASUS\Desktop\pratıkler\degisken\obj\Debug\net6.0\degisken.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pratıkler\degisken\obj\Debug\net6.0\ref\degisken.dll
