@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\bin\Debug\net6.0\array-sinifi-metodlari.exe
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\bin\Debug\net6.0\array-sinifi-metodlari.deps.json
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\bin\Debug\net6.0\array-sinifi-metodlari.runtimeconfig.json
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\bin\Debug\net6.0\array-sinifi-metodlari.dll
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\bin\Debug\net6.0\array-sinifi-metodlari.pdb
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\obj\Debug\net6.0\array-sinifi-metodlari.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\obj\Debug\net6.0\array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\obj\Debug\net6.0\array-sinifi-metodlari.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\obj\Debug\net6.0\array-sinifi-metodlari.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\obj\Debug\net6.0\array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\obj\Debug\net6.0\array-sinifi-metodlari.dll
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\obj\Debug\net6.0\refint\array-sinifi-metodlari.dll
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\obj\Debug\net6.0\array-sinifi-metodlari.pdb
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\obj\Debug\net6.0\array-sinifi-metodlari.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pratıkler\array-sinifi-metodlari\obj\Debug\net6.0\ref\array-sinifi-metodlari.dll
