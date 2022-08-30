@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\pratıkler\metotlar\bin\Debug\net6.0\metotlar.exe
+C:\Users\ASUS\Desktop\pratıkler\metotlar\bin\Debug\net6.0\metotlar.deps.json
+C:\Users\ASUS\Desktop\pratıkler\metotlar\bin\Debug\net6.0\metotlar.runtimeconfig.json
+C:\Users\ASUS\Desktop\pratıkler\metotlar\bin\Debug\net6.0\metotlar.dll
+C:\Users\ASUS\Desktop\pratıkler\metotlar\bin\Debug\net6.0\metotlar.pdb
+C:\Users\ASUS\Desktop\pratıkler\metotlar\obj\Debug\net6.0\metotlar.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pratıkler\metotlar\obj\Debug\net6.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pratıkler\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pratıkler\metotlar\obj\Debug\net6.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\metotlar\obj\Debug\net6.0\metotlar.dll
+C:\Users\ASUS\Desktop\pratıkler\metotlar\obj\Debug\net6.0\refint\metotlar.dll
+C:\Users\ASUS\Desktop\pratıkler\metotlar\obj\Debug\net6.0\metotlar.pdb
+C:\Users\ASUS\Desktop\pratıkler\metotlar\obj\Debug\net6.0\metotlar.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pratıkler\metotlar\obj\Debug\net6.0\ref\metotlar.dll
