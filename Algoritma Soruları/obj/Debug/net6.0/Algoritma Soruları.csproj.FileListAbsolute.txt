@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\bin\Debug\net6.0\Algoritma Soruları.exe
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\bin\Debug\net6.0\Algoritma Soruları.deps.json
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\bin\Debug\net6.0\Algoritma Soruları.runtimeconfig.json
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\bin\Debug\net6.0\Algoritma Soruları.dll
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\bin\Debug\net6.0\Algoritma Soruları.pdb
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\obj\Debug\net6.0\Algoritma Soruları.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\obj\Debug\net6.0\Algoritma Soruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\obj\Debug\net6.0\Algoritma Soruları.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\obj\Debug\net6.0\Algoritma Soruları.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\obj\Debug\net6.0\Algoritma Soruları.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\obj\Debug\net6.0\Algoritma Soruları.dll
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\obj\Debug\net6.0\refint\Algoritma Soruları.dll
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\obj\Debug\net6.0\Algoritma Soruları.pdb
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\obj\Debug\net6.0\Algoritma Soruları.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pratıkler\Algoritma Soruları\obj\Debug\net6.0\ref\Algoritma Soruları.dll
