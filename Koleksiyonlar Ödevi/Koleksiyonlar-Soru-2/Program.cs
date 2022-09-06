@@ -34,7 +34,7 @@ namespace Koleksiyonlar_Soru_2
             ListeYazdir(maxsayı);
             Console.WriteLine("En küçük 3 sayının ortalaması: "+OrtalamaYazdir(minsayı));
             Console.WriteLine("En büyük 3 sayının ortalaması: "+OrtalamaYazdir(maxsayı));
-            Console.WriteLine("Toplam ortalama: "+ (OrtalamaYazdir(minsayı)+OrtalamaYazdir(maxsayı))/3);
+            Console.WriteLine("Toplam ortalama: "+ (OrtalamaYazdir(minsayı)+OrtalamaYazdir(maxsayı)));
 
         }
                 static void ListeYazdir(ArrayList liste)
