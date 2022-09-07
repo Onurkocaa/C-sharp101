@@ -12,40 +12,48 @@ namespace Koleksiyonlar_Soru_2
           //her iki grubun kendi içerisinde ortalamalarını alan ve 
           //bu ortalamaları ve ortalama toplamlarını console'a yazdıran programı yazınız.
           //ArrayList sayılar = new ArrayList();
-          double[] sayı = new double[20];
+   ArrayList sayılar = new ArrayList();
           for(int i=0;i<20;i++)
           {
             Console.WriteLine("Lütfen {0}.sayıyı giriniz:",i+1);
-            double n = int.Parse(Console.ReadLine());
-            sayı[i]=n;
+            int n = int.Parse(Console.ReadLine());
+            sayılar.Add(n);
           }
-          Array.Sort(sayı);
-          double[] min = new double[3];
-          min[0] = sayı[0]; 
-          min[1] = sayı[1];
-          min[2] = sayı[2];
-          double[] max = new double[3];
-          max[0] = sayı[17];
-          max[1] = sayı[18];
-          max[2] = sayı[19];
-          
-          foreach(var item in min)
+          sayılar.Sort();
+          foreach(var item in sayılar)
+          {
           Console.WriteLine(item);
-          foreach(var item in max)
-          Console.WriteLine(item);
-          Console.WriteLine("En küçük 3 sayının ortalaması: "+Ortalama(min));
-          Console.WriteLine("En büyük 3 sayının ortalaması: "+Ortalama(max));
-          Console.WriteLine("En büyük ve en küçük sayının ortalaması: "+(Ortalama(min)+Ortalama(max))/3);
+          }
+          ArrayList minsayı = sayılar.GetRange(0,3);
+          ArrayList maxsayı = sayılar.GetRange(17,3);
+            foreach(var item in minsayı)
+            Console.WriteLine(item);
+            foreach(var item in maxsayı)
+            Console.WriteLine(item);
+            ListeYazdir(minsayı);
+            ListeYazdir(maxsayı);
+            Console.WriteLine("En küçük 3 sayının ortalaması: "+OrtalamaYazdir(minsayı));
+            Console.WriteLine("En büyük 3 sayının ortalaması: "+OrtalamaYazdir(maxsayı));
+            Console.WriteLine("Toplam ortalama: "+ (OrtalamaYazdir(minsayı)+OrtalamaYazdir(maxsayı)));
+
         }
-        static int Ortalama(double[] i)
+                static void ListeYazdir(ArrayList liste)
         {
-            int total = 0;
-            foreach (int number in i)
-                total += number;
-            return total / i.Length;
+            for (int i = 0; i < liste.Count; i++)
+            {
+                Console.Write(liste[i] + " ");
+            }
+            Console.WriteLine();
         }
-
-    }
+        static double OrtalamaYazdir(ArrayList liste)
+        {
+            int toplam = 0;
+            for (int i = 0; i < liste.Count; i++)
+            {
+                toplam += Convert.ToInt32(liste[i]);
+            }
+            double ortalama = (double)toplam / liste.Count;
+            return ortalama;
+        }
+      }
 }
-
-
