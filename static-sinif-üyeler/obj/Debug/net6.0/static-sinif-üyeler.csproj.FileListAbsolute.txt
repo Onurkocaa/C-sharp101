@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\bin\Debug\net6.0\static-sinif-üyeler.exe
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\bin\Debug\net6.0\static-sinif-üyeler.deps.json
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\bin\Debug\net6.0\static-sinif-üyeler.runtimeconfig.json
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\bin\Debug\net6.0\static-sinif-üyeler.dll
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\bin\Debug\net6.0\static-sinif-üyeler.pdb
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\obj\Debug\net6.0\static-sinif-üyeler.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\obj\Debug\net6.0\static-sinif-üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\obj\Debug\net6.0\static-sinif-üyeler.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\obj\Debug\net6.0\static-sinif-üyeler.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\obj\Debug\net6.0\static-sinif-üyeler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\obj\Debug\net6.0\static-sinif-üyeler.dll
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\obj\Debug\net6.0\refint\static-sinif-üyeler.dll
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\obj\Debug\net6.0\static-sinif-üyeler.pdb
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\obj\Debug\net6.0\static-sinif-üyeler.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pratıkler\static-sinif-üyeler\obj\Debug\net6.0\ref\static-sinif-üyeler.dll
