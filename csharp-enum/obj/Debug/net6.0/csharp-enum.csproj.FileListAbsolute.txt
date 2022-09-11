@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\bin\Debug\net6.0\csharp-enum.exe
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\bin\Debug\net6.0\csharp-enum.deps.json
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\bin\Debug\net6.0\csharp-enum.runtimeconfig.json
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\bin\Debug\net6.0\csharp-enum.dll
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\bin\Debug\net6.0\csharp-enum.pdb
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\obj\Debug\net6.0\csharp-enum.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\obj\Debug\net6.0\csharp-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\obj\Debug\net6.0\csharp-enum.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\obj\Debug\net6.0\csharp-enum.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\obj\Debug\net6.0\csharp-enum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\obj\Debug\net6.0\csharp-enum.dll
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\obj\Debug\net6.0\refint\csharp-enum.dll
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\obj\Debug\net6.0\csharp-enum.pdb
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\obj\Debug\net6.0\csharp-enum.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pratıkler\csharp-enum\obj\Debug\net6.0\ref\csharp-enum.dll
