@@ -22,7 +22,7 @@ namespace phonebook
             {
                 other++;      
             }
-            if(other == contact.Count)
+            if(other == 1)
             {
                Console.WriteLine("Aradığınız krtiterlere uygun veri rehberde bulunamadı. Lütfen bir seçim yapınız.");
                Console.WriteLine("*Silmeyi sonlandırmak için : (1)");
