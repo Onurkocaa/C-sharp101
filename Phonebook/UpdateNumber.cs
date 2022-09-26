@@ -25,7 +25,7 @@ namespace phonebook
             {
                 others++;
             }
-             if(others == contact.Count)
+             if(others == 1)
             {
                 Console.WriteLine("Aradığınız krtiterlere uygun veri rehberde bulunamadı.Lütfen bir seçim yapınız.");
                 Console.WriteLine("* Güncellemeyi sonlandırmak için : (1)");
