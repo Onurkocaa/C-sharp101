@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\bin\Debug\net6.0\HomeTry.exe
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\bin\Debug\net6.0\HomeTry.deps.json
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\bin\Debug\net6.0\HomeTry.runtimeconfig.json
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\bin\Debug\net6.0\HomeTry.dll
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\bin\Debug\net6.0\HomeTry.pdb
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\obj\Debug\net6.0\HomeTry.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\obj\Debug\net6.0\HomeTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\obj\Debug\net6.0\HomeTry.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\obj\Debug\net6.0\HomeTry.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\obj\Debug\net6.0\HomeTry.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\obj\Debug\net6.0\HomeTry.dll
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\obj\Debug\net6.0\refint\HomeTry.dll
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\obj\Debug\net6.0\HomeTry.pdb
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\obj\Debug\net6.0\HomeTry.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\pratıkler\HomeTry\obj\Debug\net6.0\ref\HomeTry.dll
